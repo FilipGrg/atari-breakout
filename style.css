@@ -1,0 +1,20 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background-color: #000;               
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+
+#game {
+    background-color: #111;               
+    box-shadow: 0 0 15px rgba(0,0,0,0.8);
+}
